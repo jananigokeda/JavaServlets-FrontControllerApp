@@ -1,0 +1,9 @@
+com\algonquincollege\Janani_Gokeda\Assign2\JakartaRestConfiguration.class
+dataaccesslayer\AuthorDAOImpl.class
+dataaccesslayer\DataSource.class
+viewlayer\FrontController.class
+com\algonquincollege\Janani_Gokeda\Assign2\resources\JakartaEE8Resource.class
+businesslayer\AuthorBusinessLogic.class
+dataaccesslayer\DAOException.class
+dataaccesslayer\AuthorDAO.class
+transferobjects\Author.class
